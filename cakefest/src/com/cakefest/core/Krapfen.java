@@ -1,5 +1,6 @@
 package com.cakefest.core;
 
+<<<<<<< HEAD
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input.Keys;
 import com.badlogic.gdx.graphics.OrthographicCamera;
@@ -92,4 +93,8 @@ public class Krapfen {
 		//world.destroyBody(body);
 		dispose();
 	}
+=======
+public class Krapfen {
+
+>>>>>>> 558b8c2a703812c320888c877f6caa0036c0033e
 }
