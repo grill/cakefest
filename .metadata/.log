@@ -21,3 +21,16 @@ org.eclipse.core.internal.resources.ResourceException: Resource '/cakefest-andro
 
 !ENTRY org.eclipse.jdt.ui 2 0 2012-11-11 16:16:09.832
 !MESSAGE The 'org.eclipse.mylyn.java.ui.javaAllCompletionProposalComputer' proposal computer from the 'org.eclipse.mylyn.java.ui' plug-in did not complete normally. The extension took too long to return from the 'computeCompletionProposals()' operation.
+!SESSION 2012-11-11 17:33:50.059 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data C:\Users\Gabriel\workspace\cakefest -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2012-11-11 17:33:51.430
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.launching 1 0 2012-11-11 17:33:53.571
+!MESSAGE Installed JRE 'Java SE 6 (MacOS X Default)' removed due to missing VM type extension.
